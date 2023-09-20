@@ -3,8 +3,8 @@ Provide end-to-end encryption for messages, video and audio communication, and f
 ## 1:1 chat
 ### Security Objectives
 - Confidentiality and Authenticity
-- Forward Secrecy (FS)
-- Post-compromise Security (PCS)
+- Forward Secrecy (FS) - Double Rachet 
+- Post-compromise Security (PCS) - Double Rachet 
 - Deniability (optional)
 - Async - Support sessions where no two members are online at the same time
 - Multi-device support - Users should be able to use more than one device
